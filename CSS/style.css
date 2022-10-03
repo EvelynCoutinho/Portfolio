@@ -1,0 +1,15 @@
+a:hover{
+    font-size: 25px;
+}
+div:hover{
+    background-color: red;
+}
+p:first-child{
+    border: 1px solid black
+}
+p:last-child{
+    border: 1px solid blue
+}
+p:nth-child(4){
+    background-color: blue;
+}
